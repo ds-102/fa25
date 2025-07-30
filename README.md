@@ -16,7 +16,7 @@ Prerequisites:
 
 After cloning this repository and navigating into the directory, run the following command to install dependencies
 ```
-cd YOUR_REPO
+cd fa25
 bundle install
 ```
 
