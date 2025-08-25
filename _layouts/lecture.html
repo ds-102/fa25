@@ -26,13 +26,10 @@ nav_exclude: true
   </span>
   {% endif %}
 
-  {% if page.slido %}
-  <span class="fs-5 m-1">
-    <a href="{{ page.slido }}" target="_blank" class="btn btn-green">
-      <i class="fa-solid fa-question" aria-hidden="true"></i>
-      Slido Q&A
-    </a>
-  </span>
+  {% if page.comments %}
+  <p>
+    {{ page.comments }}
+  </p>
   {% endif %}
 
   <section>
@@ -42,16 +39,19 @@ nav_exclude: true
         <li><a href="{{ page.files.slides }}" target="_blank">Slides</a></li>
       {% endif %}
       {% if page.files.pdf_slides %}
-      <li><a href="{{ page.files.pdf_slides }}" target="_blank">Slides (PDF)</a></li>
+      <li><a href="{{ page.files.annotated_slides }}" target="_blank">Slides (Annotated)</a></li>
+      {% endif %}
+      {% if page.files.textbook_sections %}
+      <li>Textbook reading
+          <ul>
+              {% for section in page.files.textbook_sections %}
+              <li><a href="{{ section.link }}">{{ section.number }}</a></li>
+              {% endfor %}
+          </ul>
+      </li>
       {% endif %}
       {% if page.files.notes %}
       <li><a href="{{ page.files.notes }}" target="_blank">Notes</a></li>
-      {% endif %}
-      {% if page.files.code %}
-      <li><a href="{{ page.files.code }}" target="_blank">Code</a></li>
-      {% endif %}
-      {% if page.files.code_html %}
-      <li><a href="{{ page.files.code_html }}">Code (HTML)</a></li>
       {% endif %}
       {% if page.files.notebook %}
       <li><a href="{{ page.files.notebook }}" target="_blank">Jupyter Notebook</a></li>
@@ -59,7 +59,7 @@ nav_exclude: true
       {% if page.files.additional_files %}
         {% for item in page.files.additional_files %}
           {% if item.name and item.link %}
-          <li><a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a></li>
+          <li><a href="{{ item.link }}" target="_blank">{{ item.name }}</a></li>
           {% endif %}
         {% endfor %}
       {% endif %}
