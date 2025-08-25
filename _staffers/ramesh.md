@@ -2,7 +2,7 @@
 name: Ramesh Sridharan
 role: Instructor
 email: ramesh_s
-website: 
+website:
 photo: ramesh.jpg
-pronouns:
+pronouns: he/him
 ---

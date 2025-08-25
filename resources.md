@@ -19,6 +19,7 @@ Jump to:
 
 | Semester | Midterm 1 | Midterm 2 | Final |
 | -- | -- | -- | -- |
+| Fall 2025 |   | | |
 | Spring 2025 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp25_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp25_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp25_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/sp25_mt2_sol.pdf)) | |
 | Fall 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1_sol.pdf)) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2_sol.pdf))| |
 | Spring 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp24_mt2.pdf) ([Solutions](assets/exams/midterm_2/sp24_mt2_sol.pdf)) | |
@@ -70,8 +71,9 @@ Data 102 builds on material taught in previous data science courses. You may fin
 
 ## Reading Resources
 
-* **[Data 102 Textbook](https://data102.org/ds-102-book/)** Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. The instructors are in the process of developing this online textbook for the course, they will be updating the textbook as semester progresses.     
-  You can also find useful reading among the following collection of books, all of which are free
+* **[Data 102 Textbook](https://data102.org/ds-102-book/)**: this will be the main reference for this course, and references to textbook sections will be posted for each lecture.
+
+You can also find useful reading among the following collection of books, all of which are free
 
 * **[Patterns, Predictions, and Actions](https://mlstory.org/)** This book is a great introduction to many of the topics we cover in this course, as well as several other important topics in advanced machine learning and data science. The following chapters are particularly relevant to this class:
   * Chapter 2 covers decision theory.
