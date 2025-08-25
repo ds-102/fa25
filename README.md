@@ -3,8 +3,6 @@
 [![Deploy Data 102 FA25 Website](https://github.com/ds-102/fa25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/ds-102/fa25/actions/workflows/jekyll.yml)
 [![Run all page a11y tests](https://github.com/ds-102/fa25/actions/workflows/rspec.yml/badge.svg)](https://github.com/ds-102/fa25/actions/workflows/rspec.yml)
 
-This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of fa19 with sp25 and DS100 with Data 102).
-
 To add Jupyter notebook links to the webpage, use nbgitpuller: https://jupyterhub.github.io/nbgitpuller/link
 
 ## Installation
