@@ -13,5 +13,3 @@ Oct 2
 : **Lecture**{: .label .label-lecture } [11. Model Checking for GLMs](lecture/lec11)
 
 Oct 3
-: **Lab**{: .label .label-lab } [Lab 6: GLMs and the Bootstrap](https://data102.datahub.berkeley.edu/)  (due Oct 8 at 5 PM)
-: **Homework**{: .label .label-hw} [Homework 3](https://data102.datahub.berkeley.edu/) (due Oct 17 at 5 PM)

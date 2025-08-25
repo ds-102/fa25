@@ -37,9 +37,11 @@ heading_anchors: false
 
 aux_links:
   Ed:
-    - 'https://edstem.org/us/' #TODO
-  Gradescope:
+    - 'https://edstem.org/us/courses/82348'
+  Gradescope (TBD):
     - 'https://www.gradescope.com/courses/' # TODO
+  Pensieve (TBD):
+    - 'https://pensieve.co/'
   # Extenuating Circumstances: 
   #   - 'https://forms.gle/itp44JPQvXi9zF3h6' # TODO
 
