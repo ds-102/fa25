@@ -11,7 +11,7 @@ description: A week-to-week description of the content covered in the course.
 {: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 
 <div>
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role' contains 'nstructor' %}
   <div class="role">
     {% for staffer in instructors %}
     {{ staffer }}
