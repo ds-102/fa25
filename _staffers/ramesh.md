@@ -1,6 +1,6 @@
 ---
 name: Ramesh Sridharan
-role: Instructor
+role: Professor
 email: ramesh_s
 website:
 photo: ramesh.jpg

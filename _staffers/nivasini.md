@@ -1,6 +1,6 @@
 ---
 name: Nivasini
-role: Co-instructor
+role: Instructor
 email: nivasini
 website:
 photo: nivasini.jpg

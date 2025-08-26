@@ -3,7 +3,7 @@ name: Brandon Yu
 role: TA
 email: brandon.y
 website:
-photo: brandon.jpg
+# photo: brandon.jpg
 pronouns: he/him
 ---
 

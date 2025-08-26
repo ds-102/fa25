@@ -35,7 +35,7 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 </div>
 {% endif %}
 
-{% assign staff = site.staffers | where: 'team', 'Staff' | reverse %}
+{% assign staff = site.staffers | where: 'role', 'TA' | reverse %}
 {% assign num_staff = staff | size %}
 {% if num_staff != 0 %}
 ## Course Staff
@@ -46,3 +46,4 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
     {% endfor %}
 </div>
 {% endif %}
+
