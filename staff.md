@@ -11,7 +11,7 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 
 **Note:** Consult the [calendar]({{site.baseurl}}/calendar) for the most up-to-date office hours.
 
-{% assign instructors = site.staffers | where: 'role' contains 'nstructor' | reverse %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' | reverse %}
 {% assign num_instructors = instructors | size %}
 {% if num_instructors != 0 %}
 ## Instructors
