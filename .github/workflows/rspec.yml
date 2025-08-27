@@ -5,8 +5,6 @@ name: Run all page a11y tests
 on:
   - push
   - workflow_dispatch
-  - deployment
-  - release
 
 jobs:
   build:
