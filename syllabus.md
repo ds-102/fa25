@@ -173,33 +173,44 @@ You are responsible for reasonable communication with course staff. If you make 
 
 ### LLM and Generative AI Policy
 
-LLMs like ChatGPT, Gemini, Claude, etc. are tools, and are permitted to be used in this class with some important restrictions. Specifically, using LLMs in Data 102 is subject to the following policies:
+LLMs like ChatGPT, Gemini, Claude, etc. are tools, and are permitted to be used in this class with some important restrictions. More important than the policies are the *reasons* we have them!
+
+#### Why do we have these policies?
+
+The goal of this course is to give you skills to apply sophisticated data science techniques and reasoning in real-world scenarios. Towards this end, we've designed homework and lab questions with a lot of guidance and structure to help you apply the skills you learn. This guidance and structure is meant to make it easy to learn things for the first time, but it also has the side effect of making things very easy for an LLM to answer.
+
+In real-world scenarios, while using an LLM can provide a lot of help and support in solving problems, the current generation can't identify the right questions to ask: this is something you can only learn through practice and experience. **In particular, the process of getting stuck, identifying gaps in your knowledge, and getting yourself un-stuck is a critical part of the learning process.** If you use an LLM to answer these questions for you, you're robbing yourself of that experience, and also of the depth of learning.
+
+We encourage you to reach out to course staff, either on Ed or in office hours, as your first point of contact when you get stuck. Why? Because course staff are trained to respond to your questions in a way that helps you learn, while LLMs are (literally) trained to be [sycophantic](https://en.wiktionary.org/wiki/sycophancy) and tell you what you want to hear [[1]](https://arxiv.org/html/2502.08177v2).
+
+
+#### The Actual Policy
+
+Using LLMs in Data 102 is subject to the following policies:
 
 1. You may use LLMs to answer conceptual questions (e.g., *"Why is a Beta(7, 9) prior stronger than a Beta(2, 3) prior?*) with no restrictions.
 2. You may use LLMs to explain any solution already provided (e.g., understadning already-released homework, lab, or vitamin solutions, discussion worksheets, or past exams), **but we strongly recommend you attempt to understand it yourself first.**
 3. **You may not use LLMs to answer homework or lab questions before turning in an assignment.**
-4. **If you use any LLM to answer conceptual questions or otherwise for an assignment, you must submit a full transcript of all prompts and responses.** Transcripts that violate the policies above will result in a warning the first time, and then a 0 on the assignment in subsequent times.
+4. **If you use any LLM to answer conceptual questions or otherwise for an assignment, you must submit a full transcript of all prompts and responses.**
+5. Patterns of repeated policy violations are subject to 0s on offending assignments after a warning.
+
+Course staff are much more interested in teaching than enforcing the policy above: please make good use of your time and ours, and don't make us have to enforce it!
 
 There can be a fine line between items (1) and (3). Here are a few examples of acceptable and unacceptable use:
 
-**Allowed usage**
+**Allowed usage examples**
 
 * What is the difference between discrete and continuous random variables?
 * What's the numpy or scipy library function that generates beta random variables?
 * What information do I need to use Bayes' rule?
 * When should I use Poisson vs negative binomial GLMs?
 
-**Banned usage**
+**Banned usage examples**
 
 * Give me code to do an A/B test in Python given a CSV with columns Age, Income, and Education.
 * We have a waiting time T ~ Exponential(\(\lambda\)) and want to test \(\lambda = c\) vs \(\lambda = 2c\). Compute LR(T) explicitly in terms of c.
 * Describe what the parameters of the Pareto distribution mean in the context of the Pareto-uniform conjugate pair.
 
-**Why do we have these policies?**
-
-The goal of this course is to give you skills to apply sophisticated data science techniques and reasoning in real-world scenarios. Towards this end, we've designed homework and lab questions with a lot of guidance and structure to help you apply the skills you learn. This guidance and structure is meant to make it easy to learn things for the first time, but it also has the side effect of making things very easy for an LLM to answer.
-
-In real-world scenarios, while using an LLM can provide a lot of help and support in solving problems, the current generation can't identify the right questions to ask: this is something you can only learn through practice and experience. **In particular, the process of getting stuck, identifying gaps in your knowledge, and getting yourself un-stuck is a critical part of the learning process.** If you use an LLM to answer these questions for you, you're robbing yourself of that experience, and also of the depth of learning.
 
 ### Collaboration and Academic Integrity
 
