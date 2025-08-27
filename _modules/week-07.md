@@ -10,7 +10,7 @@ Oct 8
 : **Discussion**{: .label .label-disc} Discussion **cancelled**
 
 Oct 9
-: **Lecture**{: .label .label-lecture } [12. Uncertainty Quantification for GLMs](lecture/lec12)
+: {% lec 12 %}
 
 Oct 10
 : **Lab**{: .label .label-lab } [Lab 6: GLMs and the Bootstrap](https://data102.datahub.berkeley.edu/)  (due Oct 15 at 5 PM)

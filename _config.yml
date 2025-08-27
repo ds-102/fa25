@@ -21,6 +21,7 @@ baseurl: '/fa25' # the subpath of your site, e.g. /blog
 url: 'https://data102.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
 current_week: 1
+future: true
 
 markdown: kramdown
 math: mathjax
@@ -47,9 +48,14 @@ aux_links:
 
 # Collections for website data
 collections:
-  - staffers
-  - announcements
-  - modules
+  staffers:
+  announcements:
+  modules:
+  lectures:
+    output: true
+    sort_by: number
+    permalink: /lectures/:path/
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -93,6 +99,8 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-jupyter-notebook
+
+plugins_dir: _plugins
 
 callouts_level: quiet # or loud
 callouts:

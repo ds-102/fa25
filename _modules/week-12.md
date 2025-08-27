@@ -10,7 +10,7 @@ Nov 12
 : **Discussion**{: .label .label-disc } [Discussion 10]()
 
 Nov 13
-: **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
+: {% lec 21 %}
 
 Nov 14
 : **Project**{: .label .label-hw} [Project Proposal Due]()
