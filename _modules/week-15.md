@@ -4,10 +4,10 @@ ref: 'week-15'
 ---
 
 Dec 2
-: **Lecture**{: .label .label-lecture } [24. Bridging Technical & Ethical Perspectives on Modeling and Decisions](lecture/lec24)
+: {% lec 24 %}
 
 Dec 4
-: **Lecture**{: .label .label-lecture } [25. Technical and Ethical Perspectives (continued) and Course Wrap-Up](lecture/lec25)
+: {% lec 25 %}
 
 Dec 5
 : **Project**{: .label .label-hw} [Project Checkpoint 2 Due]()

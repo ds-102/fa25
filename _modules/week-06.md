@@ -4,12 +4,10 @@ ref: 'week-6'
 ---
 
 Sep 30
-: **Lecture**{: .label .label-lecture } [10. Regression and GLMs](lecture/lec10)
+: {% lec 10 %}
 
 Oct 1
 : **Discussion**{: .label .label-disc } [Discussion 5]()
 
 Oct 2
-: **Lecture**{: .label .label-lecture } [11. Model Checking for GLMs](lecture/lec11)
-
-Oct 3
+: {% lec 11 %}

@@ -4,7 +4,7 @@ ref: 'week-14'
 ---
 
 Nov 25
-: **Lecture**{: .label .label-lecture } [23. Case studies, Robustness, and Generalization](lecture/lec23)
+: {% lec 23 %}
 
 Nov 26
 : Holiday: Thanksgiving Break
