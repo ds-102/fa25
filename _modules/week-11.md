@@ -4,7 +4,7 @@ ref: 'week-11'
 ---
 
 Nov 4
-: {% lec 19 %})
+: {% lec 19 %}
 
 Nov 5
 : **Discussion**{: .label .label-disc } [Discussion 9]()
