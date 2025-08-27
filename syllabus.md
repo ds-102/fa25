@@ -72,6 +72,8 @@ You will have the option to switch between Option 1 and Option 2 after Midterm 1
 ### Lab
 {:.no_toc}
 
+Labs will be released every Friday evening as Jupyter notebooks, and due on **Wednesdays at 5PM**. Labs are a chance to get hands-on practice with the material in a more guided setting. Lab notebooks usually cover material from the past week's lecture, and give you a chance to implement and code up the more abstract ideas from lecture.
+
 Lab-specific office hours will be held on **Mondays** by GSIs. These provide a good opportunity to work on lab assignments with your GSI. You may use these as a drop-in session to get help on specific questions, or as a section to work through the lab while in the room. During these office hours, questions on the lab assignment will be prioritized over any other questions, and other office hours will prioritize non-lab questions.
 
 When completing and submitting the lab, you may work individually or in pairs. You may pair up with any enrolled or waitlisted student for each lab: you do not have to work with the same person every week.
