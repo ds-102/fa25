@@ -1,5 +1,5 @@
 ---
-name: Nivasini
+name: Nivasini Ananthakrishnan
 role: Instructor
 email: nivasini
 website:
