@@ -50,7 +50,7 @@ Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM i
 
 The most common approach that students find helpful are to attend lecture and read the corresponding textbook sections, in whichever order you find most helpful to your own learning. Some students are able to follow all the material using only one or the other, but this is less common as a pathway to success.
 
-Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including *but not limited to* accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLScUdBwGe9AvTwKVfkAXDZ8XRFPa_42NA18qYvEN4CwH_gT0sg/viewform).
+Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including *but not limited to* accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLSe2NVl_AEHaFTELCInp0CnoDtg3ADHuJ64Wlqw1coxNyL69YA/viewform?usp=dialog).
 
 ### Discussion
 {:.no_toc}
