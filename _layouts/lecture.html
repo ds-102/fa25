@@ -39,13 +39,13 @@ nav_exclude: true
         <li><a href="{{ page.files.slides }}" target="_blank">Slides</a></li>
       {% endif %}
       {% if page.files.pdf_slides %}
-      <li><a href="{{ page.files.annotated_slides }}" target="_blank">Slides (Annotated)</a></li>
+      <li><a href="{{ page.files.pdf_slides }}" target="_blank">Slides (Annotated)</a></li>
       {% endif %}
       {% if page.files.textbook_sections %}
       <li>Textbook reading
           <ul>
               {% for section in page.files.textbook_sections %}
-              <li><a href="{{ section.link }}">{{ section.number }}</a></li>
+              <li><a href="{{ section.link }}" target="_blank">{{ section.number }}</a></li>
               {% endfor %}
           </ul>
       </li>
