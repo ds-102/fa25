@@ -97,7 +97,7 @@ Vitamins are weekly short Gradescope/Pensieve assignments to check that you are 
 
 There will be two midterms in this class and a project-related quiz:
 
-- Midterm I on **February 27th**, 8-10PM
+- Midterm I on **October 7th**, 8-10PM
 - Midterm II on **November 20th**, 8-10PM
 - Project quiz on **Friday, December 19th**, 9-11AM
 
