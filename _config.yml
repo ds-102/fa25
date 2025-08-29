@@ -40,11 +40,11 @@ aux_links:
   Ed:
     - 'https://edstem.org/us/courses/82348'
   Gradescope:
-    - 'https://www.gradescope.com/courses/1104495' # TODO
+    - 'https://www.gradescope.com/courses/1104495'
   Pensieve (TBD):
     - 'https://pensieve.co/'
-  # Extenuating Circumstances: 
-  #   - 'https://forms.gle/itp44JPQvXi9zF3h6' # TODO
+  Extenuating Circumstances: 
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSdA-Ubux1w-QjkXYkj0NnOW02olC43QS7sko9VdsvXHkgIosA/viewform?usp=header'
 
 # Collections for website data
 collections:

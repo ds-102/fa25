@@ -153,7 +153,7 @@ Each student gets an extension budget of 5 total slip days. You can use the exte
 
 ### Extenuating Circumstances
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know by filling out this [extension request form](https://forms.gle/itp44JPQvXi9zF3h6). The sooner we are made aware, the more options we have available to us to help you.
+We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know by filling out this [extension request form](https://docs.google.com/forms/d/e/1FAIpQLSdA-Ubux1w-QjkXYkj0NnOW02olC43QS7sko9VdsvXHkgIosA/viewform?usp=header). The sooner we are made aware, the more options we have available to us to help you.
 
 For any circumstances that cannot be resolved via slip days and drops, please contact us at [data102@berkeley.edu](data102@berkeley.edu). Within two business days, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary.
 
