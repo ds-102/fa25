@@ -11,6 +11,7 @@ Sep 17
 
 Sep 18
 : {% lec 7 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/1104495) (due Sep 21 at 11:59 PM) 
 
 Sep 19
 : **Lab**{: .label .label-lab } [Lab 4: Bayesian Estimation in Hierarchical Graphical Models](https://data102.datahub.berkeley.edu/) (due Sep 24 at 5 PM)
