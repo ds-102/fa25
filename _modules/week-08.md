@@ -11,6 +11,7 @@ Oct 15
 
 Oct 16
 : {% lec 14 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/1104495) (due Oct 19 at 11:59 PM) 
 
 Oct 17
 : **Lab**{: .label .label-lab } [Lab 7: Nonparametric methods](https://data102.datahub.berkeley.edu/) (due Oct 22 at 5 PM)
