@@ -11,3 +11,4 @@ Oct 1
 
 Oct 2
 : {% lec 11 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/1104495) (due Oct 5 at 11:59 PM) 
