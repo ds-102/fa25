@@ -11,6 +11,7 @@ Oct 29
 
 Oct 30
 : {% lec 18 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 9](https://www.gradescope.com/courses/1104495) (due Nov 2 at 11:59 PM)
 
 Oct 31
 : **Lab**{: .label .label-lab } [Lab 9: Causal Inference with Unconfoundedness](https://data102.datahub.berkeley.edu/) (due Nov 5 at 5 PM)
