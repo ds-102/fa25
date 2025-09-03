@@ -11,6 +11,7 @@ Sep 24
 
 Sep 25
 : {% lec 9 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 5](https://www.gradescope.com/courses/1104495) (due Sep 28 at 11:59 PM) 
 
 Sep 26
 : **Lab**{: .label .label-lab } [Lab 5: Rejection Sampling, Gibbs Sampling and GLM](https://data102.datahub.berkeley.edu/) (due Oct 1 at 5 PM)
