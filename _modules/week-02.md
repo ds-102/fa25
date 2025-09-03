@@ -7,7 +7,7 @@ Sep 2
 : {% lec 2 %}
 
 Sep 3
-: **Discussion**{: .label .label-disc } [Discussion 1]()
+: **Discussion**{: .label .label-disc } [Discussion 1](https://drive.google.com/file/d/1Lc5L-aakF2QEnXJGKTI5ynJIumuNBSQX/view)
 
 Sep 4
 : {% lec 3 %}
