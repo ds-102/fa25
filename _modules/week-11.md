@@ -11,6 +11,7 @@ Nov 5
 
 Nov 6
 : {% lec 20 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 10](https://www.gradescope.com/courses/1104495) (due Nov 9 at 11:59 PM)
 
 Nov 7
 : **Lab**{: .label .label-lab } [Lab 10: Multi-Armed Bandits](https://data102.datahub.berkeley.edu/) (due Nov 12 at PM)
