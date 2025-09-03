@@ -11,6 +11,8 @@ Sep 3
 
 Sep 4
 : {% lec 3 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 2](https://www.gradescope.com/courses/1104495) (due Sep 7 at 11:59 PM) 
+
 
 Sep 5
 : **Lab**{: .label .label-lab } [Lab 2: Basics of Testing](https://data102.datahub.berkeley.edu/) (due Sep 10 at 5 PM)
