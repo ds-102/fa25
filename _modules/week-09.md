@@ -11,6 +11,7 @@ Oct 22
 
 Oct 23
 : {% lec 16 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/1104495) (due Oct 26 at 11:59 PM)
 
 Oct 24
 : **Lab**{: .label .label-lab } [Lab 8: Estimating Causal Effects via Instrumental Variables](https://data102.datahub.berkeley.edu/) (due Oct 29 at 5 PM)
