@@ -17,4 +17,4 @@ Sep 4
 
 Sep 5
 : **Lab**{: .label .label-lab } [Lab 2: Basics of Testing](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab02%2Flab02.ipynb) (due Sep 10 at 5 PM)
-: **Homework**{: .label .label-hw} [Homework 1](https://data102.datahub.berkeley.edu/) (due Sep 19 at 5 PM)
+: **Homework**{: .label .label-hw} [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Fhomework%2Fhw01%2FHomework1.pdf) (due Sep 19 at 5 PM)
