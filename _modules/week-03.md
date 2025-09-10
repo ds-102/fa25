@@ -7,7 +7,9 @@ Sep 9
 : {% lec 4 %}
 
 Sep 10
-: **Discussion**{: .label .label-disc} [Discussion 2](https://drive.google.com/file/d/1e_x765QPKXA9r78g8MkbUy7GqDw70iUL/view?usp=sharing) 
+: **Discussion**{: .label .label-disc} [Discussion 2](https://drive.google.com/file/d/1e_x765QPKXA9r78g8MkbUy7GqDw70iUL/view?usp=sharing)
+ ([Answers](https://drive.google.com/file/d/1-wUZzhubquACdunpRtunKTUyGwz12mLx/view?usp=sharing))
+
 
 Sep 11
 : {% lec 5 %}
