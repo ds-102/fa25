@@ -7,7 +7,7 @@ Sep 16
 : {% lec 6 %}
 
 Sep 17
-: **Discussion**{: .label .label-disc } [Discussion 3]()
+: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1TVTA-9sJOuKWSitbC58Vw0NmIKRl8TJ5/view?usp=sharing)
 
 Sep 18
 : {% lec 7 %}
