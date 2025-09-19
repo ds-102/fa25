@@ -14,5 +14,5 @@ Sep 18
 : **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/1104495) (due Sep 21 at 11:59 PM) 
 
 Sep 19
-: **Lab**{: .label .label-lab } [Lab 4: Bayesian Estimation in Hierarchical Graphical Models](https://data102.datahub.berkeley.edu/) (due Sep 24 at 5 PM)
+: **Lab**{: .label .label-lab } [Lab 4: Bayesian Estimation in Hierarchical Graphical Models](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab04%2Flab04.ipynb) (due Sep 24 at 5 PM)
 : **Homework**{: .label .label-hw} [Homework 2](https://data102.datahub.berkeley.edu/) (due Oct 03 at 5 PM)
