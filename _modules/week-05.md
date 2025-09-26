@@ -14,4 +14,4 @@ Sep 25
 : **Vitamin**{: .label .label-vit } [Vitamin 5](https://www.gradescope.com/courses/1104495) (due Sep 28 at 11:59 PM) 
 
 Sep 26
-: **Lab**{: .label .label-lab } [Lab 5: Rejection Sampling, Gibbs Sampling and GLM](https://data102.datahub.berkeley.edu/) (due Oct 1 at 5 PM)
+: **Lab**{: .label .label-lab } [Lab 5: Rejection Sampling, Gibbs Sampling and GLM](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab05%2Flab05.ipynb) (due Oct 1 at 5 PM)
