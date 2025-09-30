@@ -7,7 +7,7 @@ Sep 30
 : {% lec 10 %}
 
 Oct 1
-: **Discussion**{: .label .label-disc } [Discussion 5]()
+: **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/11S1URDmDYVdrf_BUmuhWgv3NqidjCTgo/view?usp=sharing)
 
 Oct 2
 : {% lec 11 %}
