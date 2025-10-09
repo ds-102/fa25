@@ -11,6 +11,7 @@ Oct 8
 
 Oct 9
 : {% lec 12 %}
+: **Vitamin**{: .label .label-vit } [Vitamin 6.5](https://www.gradescope.com/courses/1104495) (due Oct 12 at 11:59 PM) 
 
 Oct 10
 : **Lab**{: .label .label-lab } [Lab 6: GLMs and the Bootstrap](https://data102.datahub.berkeley.edu/)  (due Oct 15 at 5 PM)
