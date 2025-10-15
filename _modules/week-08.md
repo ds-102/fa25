@@ -7,7 +7,7 @@ Oct 14
 : {% lec 13 %}
 
 Oct 15
-: **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/12zxgr03NyURpK0cx4umtspNB9DU_NayS/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/12zxgr03NyURpK0cx4umtspNB9DU_NayS/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1VYvJtjBktvnAq6-6oGZYOIIRM0k9JHnb/view?usp=sharing))
 
 Oct 16
 : {% lec 14 %}
