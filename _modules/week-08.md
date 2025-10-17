@@ -14,4 +14,4 @@ Oct 16
 : **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/1104495) (due Oct 19 at 11:59 PM) 
 
 Oct 17
-: **Lab**{: .label .label-lab } [Lab 7: Nonparametric methods](https://data102.datahub.berkeley.edu/) (due Oct 22 at 5 PM)
+: **Lab**{: .label .label-lab } [Lab 7: Nonparametric methods](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab07%2Flab07.ipynb) (due Oct 22 at 5 PM)
