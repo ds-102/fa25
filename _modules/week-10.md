@@ -14,4 +14,4 @@ Oct 30
 : **Vitamin**{: .label .label-vit } [Vitamin 9](https://www.gradescope.com/courses/1104495) (due Nov 2 at 11:59 PM)
 
 Oct 31
-: **Lab**{: .label .label-lab } [Lab 9: Causal Inference with Unconfoundedness](https://data102.datahub.berkeley.edu/) (due Nov 5 at 5 PM)
+: **Lab**{: .label .label-lab } [Lab 9: Causal Inference with Unconfoundedness](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab09%2Flab09.ipynb) (due Nov 5 at 5 PM)
