@@ -7,7 +7,7 @@ Nov 4
 : {% lec 19 %}
 
 Nov 5
-: **Discussion**{: .label .label-disc } [Discussion 9]()
+: **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1tYkOh8-WxoYg93P11XsHhBii20Z8qFO2/view?usp=sharing)
 
 Nov 6
 : {% lec 20 %}
