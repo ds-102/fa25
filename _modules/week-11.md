@@ -15,4 +15,4 @@ Nov 6
 
 Nov 7
 : **Lab**{: .label .label-lab } [Lab 10: Multi-Armed Bandits](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Flab%2Flab10%2Flab10.ipynb) (due Nov 12 at PM)
-: **Homework**{: .label .label-hw} [Homework 5](https://data102.datahub.berkeley.edu/) (due Nov 14 at 5 PM)
+: **Homework**{: .label .label-hw} [Homework 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa25-materials&branch=main&urlpath=lab%2Ftree%2Ffa25-materials%2Fhomework%2Fhw05%2FHomework5.pdf) (due Nov 14 at 5 PM)
