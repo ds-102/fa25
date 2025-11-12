@@ -7,7 +7,7 @@ Nov 11
 : Holiday: Veterans Day
 
 Nov 12
-: **Discussion**{: .label .label-disc } [Discussion 10]()
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1YI4bo9Opw7viJWdOiAiHjm4bwuOwAZHY/view?usp=sharing)
 
 Nov 13
 : {% lec 21 %}
